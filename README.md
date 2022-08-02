@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nadeem</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprim&label=Profile%20views&color=0e75b6&style=flat" alt="nadprim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadprime" alt="nadprime" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nadprim" target="blank"><img src="https://img.shields.io/twitter/follow/nadprim?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p>
-
+<img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [.](.)
 
 - 🌱 I’m currently learning **.**
@@ -45,3 +41,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&locale=en" alt="nadprime" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadprime&" alt="nadprime" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprim&label=Profile%20views&color=0e75b6&style=flat" alt="nadprim" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadprime" alt="nadprime" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/nadprim" target="blank"><img src="https://img.shields.io/twitter/follow/nadprim?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p>
+
