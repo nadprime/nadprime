@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [.](.)
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
 - 📝 I regularly write articles on [.](.)
 
