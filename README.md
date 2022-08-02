@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [.](.)
 
 - 🌱 I’m currently learning **.**
-<img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coder" width="400" src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 - 👯 I’m looking to collaborate on [.](.)
 
