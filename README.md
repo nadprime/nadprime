@@ -4,9 +4,9 @@
 
 [To Do]
 
-- 🔭 I’m currently working on [.](.)
+- 🔭 I’m currently working on [My Website](https://nadprime.github.io)
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently learning **Java**
 
 <img align="right" alt="Coder" width="280" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
@@ -16,15 +16,15 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
-- 📝 I regularly write articles on [.](.)
+- 📝 I regularly write articles on [My Blog]()
 
-- 💬 Ask me about **.**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **.**
+- 📫 How to reach me **via Twitter**
 
-- 📄 Know about my experiences [.](.)
+- 📄 Know about my experiences [at my blog](.)
 
-- ⚡ Fun fact **.**
+- ⚡ Fun fact **It's all 0's and 1's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
