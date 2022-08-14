@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [My Website](https://nadprime.github.io)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React Js**
 
 <img align="right" alt="Coder" width="280" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
-- 👯 I’m looking to collaborate on [.](.)
+- 👯 I’m looking to collaborate on [Projects](.)
 
-- 🤝 I’m looking for help with [.](.)
+- 🤝 I’m looking for help with [React](.)
 
 - 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
