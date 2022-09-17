@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Projects](.)
 
-- 🤝 I’m looking for help with [App Development](.)
+- 🤝 I’m looking for help with [Projects](.)
 
 - 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
