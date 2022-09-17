@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-- 🔭 I’m currently working on [My Website](https://nadprime.github.io) [and My Project]
+- 🔭 I’m currently working on [My Website](https://nadprime.github.io) 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Machine Learning**
 
 <img align="right" alt="Coder" width="280" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 - 👯 I’m looking to collaborate on [Projects](.)
 
-- 🤝 I’m looking for help with [React](.)
+- 🤝 I’m looking for help with [App Development](.)
 
 - 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
