@@ -50,4 +50,4 @@
 
 <p align="left"> <a href="https://twitter.com/nadprime" target="blank"><img src="https://img.shields.io/twitter/follow/nadprime?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p>
 
-[![@dexpr's Holopin board](https://holopin.me/dexpr)](https://holopin.io/@dexpr)
+[![@nadprime's Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
