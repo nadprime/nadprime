@@ -52,4 +52,7 @@
 <p align="left"> <a href="https://twitter.com/nadprime" target="blank"><img src="https://img.shields.io/twitter/follow/nadprime?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprim&label=Profile%20views&color=0e75b6&style=flat" alt="nadprim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nadeems's Github Stats" width="48%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=nadprime&theme=github-dark" width="48%">
