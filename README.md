@@ -41,6 +41,9 @@
 
 [![@nadprime's Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
 
+</br>
+### :zap: Github Stats
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nadeems's Github Stats" width="48%">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nadprime&theme=github-dark" width="48%">
 
