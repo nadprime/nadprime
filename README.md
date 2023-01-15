@@ -54,9 +54,9 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nadprime&theme=github-dark" width="48%">
 
 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&locale=en" alt="nadprime" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&locale=en" alt="nadprime" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadprime&" alt="nadprime" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadprime&" alt="nadprime" /></p>
 
 
 
