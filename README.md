@@ -64,7 +64,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/nadprime" target="blank"><img src="https://img.shields.io/twitter/follow/nadprime?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p> -->
 
-## 🔗 Links
+## 🔗 Connect With Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nadprime.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nadprime)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nadprime)
