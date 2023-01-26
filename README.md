@@ -62,7 +62,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadprime" alt="nadprime" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nadprime" target="blank"><img src="https://img.shields.io/twitter/follow/nadprime?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/nadprime" target="blank"><img src="https://img.shields.io/twitter/follow/nadprime?logo=twitter&style=for-the-badge" alt="nadprime" /></a> </p> -->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nadprime.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nadprime)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nadprime)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
