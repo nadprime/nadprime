@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
-- 📝 I regularly write articles on [My Blog](https://nadprime.github.io/)
+- 📝 I regularly write articles on [My Blog](https://nadprime.github.io/blog.html)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **via Twitter**
 
-- 📄 Know about my experiences [at my blog](https://nadprime.github.io/)
+- 📄 Know about my experiences [at my blog](https://nadprime.github.io/blog.html)
 
 - ⚡ Fun fact **It's all 0's and 1's**
 
