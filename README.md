@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **via Twitter**
 
-- 📄 Know about my experiences [at my blog](https://nadprime.github.io/blog.html)
+- 📄 Know about my experiences [at My Blog](https://nadprime.github.io/blog.html)
 
 - ⚡ Fun fact **It's all 0's and 1's**
 
