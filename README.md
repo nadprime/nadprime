@@ -124,35 +124,38 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/."> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="." /></a></p><br><br>
 
+</br>
+
 ## 🔗 Connect With Me
 <div align="left">
-  <a href="." target="_blank">
+  <a href="https://www.gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="." target="_blank">
+  <a href="https://www.youtube.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="." target="_blank">
+  <a href="https://www.instagram.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="." target="_blank">
+  <a href="https://www.facebook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="." target="_blank">
+  <a href="https://www.linkedin.com/nadprime" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="." target="_blank">
+  <a href="https://www.behance.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
   <a href="https://twitter.com/nadprime" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="." target="_blank">
+  <a href="https://www.discord.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
-
+</br>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
 
 
