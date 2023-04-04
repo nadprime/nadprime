@@ -128,7 +128,13 @@
 </br>
 
 ## 🔗 Connect With Me
-<div align="left">
+<p align="left">
+<a href="https://kaggle.com/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="." height="30" width="40" /></a>
+<a href="https://twitter.com/z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="z" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="." height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="." height="30" width="40" /></a>
+</p>
+<!-- <div align="left">
   <a href="https://www.gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
@@ -153,7 +159,7 @@
   <a href="https://www.discord.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
+</div> -->
 
 </br>
 </br>
