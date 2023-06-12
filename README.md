@@ -3,27 +3,27 @@
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 
-- 🔭 I’m currently working on [My Website](https://nadprime.github.io) 
+🔭 I’m currently working on [My Website](https://nadprime.github.io) 
 
-- 🌱 I’m currently learning **Machine Learning**
+🌱 I’m currently learning **Machine Learning**
 
 <!-- img align="right" alt="Coder" width="280" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" -->
 
-- 👯 I’m looking to collaborate on [Projects](.)
+👯 I’m looking to collaborate on [Projects](.)
 
-- 🤝 I’m looking for help with [Projects](.)
+🤝 I’m looking for help with [Projects](.)
 
-- 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
+👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
-- 📝 I regularly write articles on [My Blog](https://nadprime.github.io/blog.html)
+📝 I regularly write articles on [My Blog](https://nadprime.github.io/blog.html)
 
-- 💬 Ask me about **Python**
+💬 Ask me about **Python**
 
-- 📫 How to reach me **via Twitter**
+📫 How to reach me **via Twitter**
 
-- 📄 Know about my experiences [at My Blog](https://nadprime.github.io/blog.html)
+📄 Know about my experiences [at My Blog](https://nadprime.github.io/blog.html)
 
-- ⚡ Fun fact **It's all 0's and 1's**
+⚡ Fun fact **It's all 0's and 1's**
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
