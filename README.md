@@ -107,7 +107,7 @@
 
 [![@nadprime's Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
 
-</br>
+---
 
 ### :zap: Github Stats
 
@@ -118,6 +118,8 @@
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nadprime&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadprime&layout=compact&theme=radical&card_width=1080)
+
+---
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nadeems's Github Stats" width="48%">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=nadprime&theme=github-dark" width="48%"> -->
@@ -137,9 +139,9 @@
 
 ## 👨‍💻 Portfolio Website
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nadprime.github.io/)
+
 <!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nadprime)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nadprime) -->
-
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/."> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="." /></a></p><br><br> -->
 
