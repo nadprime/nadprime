@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-[![Typing Effect](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+%2C+I'm+Nadeem+)](https://git.io/typing-svg)
+[![Typing Effect](https://readme-typing-svg.herokuapp.com?font=poppins&size=20&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+%2C+I'm+Nadeem+)](https://git.io/typing-svg)
 
 </h3>
 
