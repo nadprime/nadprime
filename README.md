@@ -13,13 +13,10 @@
 
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
----
 
 🔭 I’m currently working on [My Website](https://nadprime.github.io) 
 
 🌱 I’m currently learning **Machine Learning**
-
-<!-- img align="right" alt="Coder" width="280" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" -->
 
 👯 I’m looking to collaborate on [Projects](.)
 
@@ -37,14 +34,6 @@
 
 ⚡ Fun fact **It's all 0's and 1's**
 
----
-
-
-<h3 align="left">🏅 Hacktoberfest Badges</h3>
-
-[![@nadprime's Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
-
----
 
 ### :zap: Github Stats
 
@@ -66,3 +55,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
 
 
+<h3 align="left">🏅 Hacktoberfest Badges</h3>
+
+[![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
