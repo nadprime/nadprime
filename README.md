@@ -54,7 +54,10 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
 
+---
 
 <h3 align="left">🏅 Hacktoberfest Badges</h3>
 
 [![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
+
+
