@@ -45,19 +45,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadprime&layout=compact&theme=radical&card_width=1080)
 
-
-
 ## 👨‍💻 Portfolio Website
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nadprime.github.io/)
 
 
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
-
----
-
 <h3 align="left">🏅 Hacktoberfest Badges</h3>
 
 [![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
+
+
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
 
 
