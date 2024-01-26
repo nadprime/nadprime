@@ -8,7 +8,7 @@
 
 </center>
 
-<h3 align="center">Hi ! 👋  I'm Nadeem, a passionate AI & ML Engineer & Full Stack Developer</h3>
+<h3 align="center">Hi ! 👋  I'm Nadeem, a passionate AI & ML Engineer and Full Stack Developer</h3>
 
 <hr/>
 
