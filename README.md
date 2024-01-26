@@ -7,12 +7,12 @@
 
 [![Typing Effect](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+%2C+I'm+Nadeem+!+)](https://git.io/typing-svg)
 
-</h3>
 
 </center>
 
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
+<hr/>
 
 🔭 I’m currently working on [My Website](https://nadprime.github.io) 
 
@@ -34,6 +34,11 @@
 
 ⚡ Fun fact **It's all 0's and 1's**
 
+---
+
+<h3 align="left">🏅 Hacktoberfest Badges</h3>
+
+[![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
 
 ### :zap: Github Stats
 
@@ -47,11 +52,6 @@
 
 ## 👨‍💻 Portfolio Website
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nadprime.github.io/)
-
-
-<h3 align="left">🏅 Hacktoberfest Badges</h3>
-
-[![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
 
 
 </br>
