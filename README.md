@@ -8,27 +8,27 @@
 
 </center>
 
-<h3 align="center">Hi ! 👋  I'm Nadeem, a passionate AI & ML Engineer and Full Stack Developer</h3>
+<h3 align="center">Hi ! 👋  I'm Nadeem, a passionate Software Engineer from India!</h3>
 
 <hr/>
 
 🔭 I’m currently working on [My Website](https://nadprime.github.io) 
 
-🌱 I’m currently learning **Machine Learning**
+🌱 I’m currently learning **GenAI**
 
-👯 I’m looking to collaborate on [Projects](.)
+👯 I’m looking to collaborate on [Projects](https://nadprime.github.io/)
 
-🤝 I’m looking for help with [Projects](.)
+🤝 I’m looking for help with [Projects](https://nadprime.github.io/)
 
 👨‍💻 All of my projects are available at [My Website](https://nadprime.github.io/)
 
-📝 I regularly write articles on [My Blog](https://nadprime.github.io/blog.html)
+📝 I regularly write articles on [My Blog](https://nadprime.github.io/)
 
 💬 Ask me about **Python**
 
 📫 How to reach me **via Twitter**
 
-📄 Know about my experiences [at My Blog](https://nadprime.github.io/blog.html)
+📄 Know about my experiences [at My Blog](https://nadprime.github.io/)
 
 ⚡ Fun fact **It's all 0's and 1's**
 
