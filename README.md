@@ -1,39 +1,77 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Nadeem's%20Realm&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%20with%20AI%20and%20Code&descAlignY=51&descAlign=42" width="100%">
+</div>
 
+<div align="center">
+  <a href="https://github.com/nadprime"><img src="https://img.shields.io/github/followers/nadprime?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/nadprime"><img src="https://img.shields.io/twitter/follow/nadprime?style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/nadprime"><img src="https://img.shields.io/badge/-Nadeem Ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://nadprime.github.io"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=nadprime&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Nadeem+Ahmad!+%F0%9F%91%8B)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;Python+Enthusiast;Open+Source+Advocate;Software+Engineer;Hackathon+Champion&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</h1>
 
-Welcome to my GitHub profile! I'm a passionate and dedicated computer science student with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
+<div align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
+</div>
 
-## What I'm all about:
+<br/>
 
-🌱 **Constant Learning**: I have an insatiable thirst for knowledge and enjoy diving into the latest advancements in the world of technology. Learning new programming languages, exploring cutting-edge frameworks, and staying up-to-date with industry trends are some of my key interests.
+<details>
+  <summary>🧙‍♂️ About Me: Click to Unveil the Mystic</summary>
+  <br>
+  <p align="center">
+    Greetings, digital voyager! 👋 I'm Nadeem, a maestro of algorithms and architect of artificial minds. My quest? To unravel the enigmas of AI and forge the future of technology.
+  </p>
+  <ul>
+    <li>🧠 Sculpting neural networks that push the boundaries of machine cognition</li>
+    <li>🌟 Transmuting raw data into strategic insights that drive innovation</li>
+    <li>🛠️ Engineering robust solutions to real-world challenges, one line of code at a time</li>
+    <li>🌐 Championing open-source initiatives that democratize cutting-edge tech</li>
+    <li>🏆 Conquering hackathons with a blend of creativity, strategy, and caffeinated coding sessions</li>
+  </ul>
+  <p align="center">
+    <em>"In the realm of AI, we are not just programmers; we are the architects of tomorrow's intelligence."</em>
+  </p>
+</details>
 
-🚀 **Hackathons and Projects**: I'm an avid participant in hackathons, where I love to collaborate with fellow developers to build innovative projects under tight deadlines. Creating meaningful and impactful applications is my way of turning ideas into reality.
+<h2 align="center">🔮 Arcane Arsenal (Tech Stack)</h2>
 
-👥 **Teamwork**: I thrive in team environments where ideas are shared, and collaboration leads to extraordinary results. I believe that the synergy of a well-coordinated team brings out the best in everyone, and I'm always excited to contribute my skills to a collective effort.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,tensorflow,pytorch,docker,git,linux,kubernetes,aws,opencv,postgresql,vscode,github,bash,html,css,javascript,nodejs,nextjs,express&perline=10" alt="Tech Stack" />
+</div>
 
-💡 **Open Source Advocacy**: I strongly believe in the power of open source and its ability to drive innovation. I actively contribute to open source projects, leveraging my expertise to support and improve the community-driven initiatives that shape the future of technology.
+<h2 align="center">🌠 Celestial Creations (Projects)</h2>
 
-🐍 **Python Enthusiast**: Python holds a special place in my heart. Its simplicity, versatility, and extensive library ecosystem make it my go-to language for development. I love exploring the possibilities that Python offers and enjoy building scalable solutions using its expressive syntax.
+<div align="center">
+  <a href="https://github.com/nadprime/zap-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=midnight-purple" alt="ZapAI" />
+  </a>
+  <a href="https://github.com/nadprime/zap-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=midnight-purple" alt="Project 2" />
+  </a>
+</div>
 
-📚 **Bookworm**: Besides coding, you'll often find me engrossed in programming and computer science books. I believe in the importance of continuous learning and find inspiration in the writings of tech pioneers and thought leaders. Feel free to ask me for book recommendations!
+<h2 align="center">🏆 Halls of Glory (Achievements)</h2>
 
-⏱️ **Productivity and Efficiency**: I have a keen interest in productivity techniques and tools that help streamline workflows and maximize efficiency. From time management strategies to adopting productivity-enhancing software, I strive for continuous improvement in my work and personal life.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadprime&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
 
-If you share any of these passions or have a project in mind where we can collaborate, I'd love to connect and explore the endless possibilities together. Let's create innovative solutions, make a positive impact, and shape the future of technology!
-
-Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/nadprime). Let's embark on this exciting journey of knowledge, collaboration, and growth!
-
-Keep coding, stay curious, and never stop learning! 🚀✨
-
----
-
-<h3 align="left">🏅 Hacktoberfest Badges</h3>
+<h3 align="center">🏅 Hacktoberfest Badges</h3>
 
 [![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
 
-### :zap: Github Stats
+<h2 align="center">📊 Cosmic Code Metrics</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadprime&theme=monokai" alt="GitHub Profile Summary" />
+</div>
+
+<br/>
 
 ![Streak](https://streak-stats.demolab.com?user=nadprime&theme=radical&card_width=1080)
 
@@ -43,11 +81,64 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadprime&layout=compact&theme=radical&card_width=1080)
 
-## 👨‍💻 Portfolio Website
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nadprime.github.io/)
+
+<h2 align="center">📜 Scrolls of Wisdom (Latest Blog Posts)</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="200" alt="Blog GIF" />
+      </td>
+      <td>
+        
+<!-- BLOG-POST-LIST:START -->
+- [Quantum Computing: The Next Frontier in AI](https://yourblog.com/quantum-ai)
+- [Ethical AI: Navigating the Digital Moral Maze](https://yourblog.com/ethical-ai)
+- [The Art of Data Storytelling](https://yourblog.com/data-storytelling)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Explore the knowledge vault...](https://yourblog.com)
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🌌 Quantum Entanglement (Connect)</h2>
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🌟 Seeking collaborators for revolutionary AI projects! 🌟</h3>
+  <p>
+    💬 Let's discuss: The ethics of AI, the future of quantum computing, or the best sci-fi predictions come true<br>
+    🌱 Current Quest: Mastering Deep Learning<br>
+    ⚡ Fun fact: It's all 0's & 1's
+  </p>
+</div>
 
 
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadprime&label=Profile%20views&color=0e75b6&style=flat" alt="nadprime" /> </p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
+<div align="center">
+  <h4>"The only way to predict the future is to create it."</h4>
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
