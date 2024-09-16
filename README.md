@@ -21,8 +21,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated computer science st
 
 ⏱️ **Productivity and Efficiency**: I have a keen interest in productivity techniques and tools that help streamline workflows and maximize efficiency. From time management strategies to adopting productivity-enhancing software, I strive for continuous improvement in my work and personal life.
 
-📖 **Non-fiction Reader**: Apart from technical literature, I'm an avid reader of non-fiction books. Exploring topics like psychology, science, and personal development broadens my horizons and fuels my desire for lifelong learning.
-
 If you share any of these passions or have a project in mind where we can collaborate, I'd love to connect and explore the endless possibilities together. Let's create innovative solutions, make a positive impact, and shape the future of technology!
 
 Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/nadprime). Let's embark on this exciting journey of knowledge, collaboration, and growth!
