@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Nadeem's%20Realm&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%20with%20AI%20and%20Code&descAlignY=51&descAlign=42" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Nadeem's%20Realm&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%20with%20AI%20and%20Code&descAlignY=51&descAlign=62" width="100%">
 </div>
 
 <div align="center">
@@ -38,27 +38,27 @@
   </p>
 </details>
 
-<h2 align="center">🔮 Arcane Arsenal (Tech Stack)</h2>
+<h2 align="center">🔮 Arcane Arsenal </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,tensorflow,pytorch,docker,git,linux,kubernetes,aws,opencv,postgresql,vscode,github,bash,html,css,javascript,nodejs,nextjs,express&perline=10" alt="Tech Stack" />
 </div>
 
-<h2 align="center">🌠 Celestial Creations (Projects)</h2>
+<h2 align="center">🌠 Celestial Creations </h2>
 
 <div align="center">
   <a href="https://github.com/nadprime/zap-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=midnight-purple" alt="ZapAI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="ZapAI" />
   </a>
   <a href="https://github.com/nadprime/zap-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=midnight-purple" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="ZapAI Pro" />
   </a>
 </div>
 
-<h2 align="center">🏆 Halls of Glory (Achievements)</h2>
+<h2 align="center">🏆 Halls of Glory </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadprime&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadprime&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 <h3 align="center">🏅 Hacktoberfest Badges</h3>
@@ -68,7 +68,7 @@
 <h2 align="center">📊 Cosmic Code Metrics</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadprime&theme=monokai" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadprime&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 <br/>
@@ -82,29 +82,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadprime&layout=compact&theme=radical&card_width=1080)
 
 
-<h2 align="center">📜 Scrolls of Wisdom (Latest Blog Posts)</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="200" alt="Blog GIF" />
-      </td>
-      <td>
-        
-<!-- BLOG-POST-LIST:START -->
-- [Quantum Computing: The Next Frontier in AI](https://yourblog.com/quantum-ai)
-- [Ethical AI: Navigating the Digital Moral Maze](https://yourblog.com/ethical-ai)
-- [The Art of Data Storytelling](https://yourblog.com/data-storytelling)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Explore the knowledge vault...](https://yourblog.com)
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">🌌 Quantum Entanglement (Connect)</h2>
+<h2 align="center">🌌 Quantum Entanglement </h2>
 
 <div align="center">
   <a href="mailto:your.email@example.com">
@@ -131,6 +110,7 @@
 </div>
 
 
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
@@ -138,6 +118,8 @@
 <div align="center">
   <h4>"The only way to predict the future is to create it."</h4>
 </div>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
