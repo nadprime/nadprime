@@ -38,11 +38,15 @@
   </p>
 </details>
 
+<br/>
+
 <h2 align="center">🔮 Arcane Arsenal </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,tensorflow,pytorch,docker,git,linux,kubernetes,aws,opencv,postgresql,vscode,github,bash,html,css,javascript,nodejs,nextjs,express&perline=10" alt="Tech Stack" />
 </div>
+
+<br/>
 
 <h2 align="center">🌠 Celestial Creations </h2>
 
@@ -55,15 +59,19 @@
   </a>
 </div>
 
+<br/>
+
 <h2 align="center">🏆 Halls of Glory </h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nadprime&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
-<h3 align="center">🏅 Hacktoberfest Badges</h3>
+<br/>
 
 [![Holopin board](https://holopin.me/nadprime)](https://holopin.io/@nadprime)
+
+<br/>
 
 <h2 align="center">📊 Cosmic Code Metrics</h2>
 
@@ -81,7 +89,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadprime&layout=compact&theme=radical&card_width=1080)
 
-
+<br/>
 
 <h2 align="center">🌌 Quantum Entanglement </h2>
 
