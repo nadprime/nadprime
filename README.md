@@ -54,8 +54,8 @@
   <a href="https://github.com/nadprime/zap-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="ZapAI" />
   </a>
-  <a href="https://github.com/nadprime/zap-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="ZapAI Pro" />
+  <a href="https://github.com/coder-nian/socratiq-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-nian&repo=socratiq-ai&theme=radical" alt="SocratiQ AI" />
   </a>
 </div>
 
