@@ -51,12 +51,12 @@
 <h2 align="center">🌠 Celestial Creations </h2>
 
 <div align="center">
-  <a href="https://github.com/nadprime/zap-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="ZapAI" />
-  </a>
-  <br/>
   <a href="https://github.com/nadprime/socratiq-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-nian&repo=socratiq-ai&theme=radical" alt="SocratiQ AI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=socratiq-ai&theme=radical" alt="SocratiQ AI" />
+  </a>
+   <br/>
+  <a href="https://github.com/nadprime/zap-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="Zap AI" />
   </a>
 </div>
 
