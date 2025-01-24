@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadprime&repo=zap-ai&theme=radical" alt="ZapAI" />
   </a>
   <br/>
-  <a href="https://github.com/coder-nian/socratiq-ai">
+  <a href="https://github.com/nadprime/socratiq-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-nian&repo=socratiq-ai&theme=radical" alt="SocratiQ AI" />
   </a>
 </div>
