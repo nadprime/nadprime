@@ -6,7 +6,7 @@
   <a href="https://github.com/nadprime"><img src="https://img.shields.io/github/followers/nadprime?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/nadprime"><img src="https://img.shields.io/twitter/follow/nadprime?style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/nadprime"><img src="https://img.shields.io/badge/-Nadeem Ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://nadprime.github.io"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://nadprime.pages.dev/"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=nadprime&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
@@ -106,7 +106,7 @@
   <a href="https://www.linkedin.com/in/nadprime">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nadprime.github.io">
+  <a href="https://nadprime.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
