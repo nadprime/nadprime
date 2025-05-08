@@ -82,14 +82,7 @@
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=nadprime&theme=radical&card_width=1080)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadprime&layout=compact&theme=radical&card_width=1080)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadprime&show_icons=true&theme=radical&card_width=1080)
-
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nadprime&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
-
 
 
 <br/>
