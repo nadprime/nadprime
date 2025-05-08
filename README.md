@@ -28,9 +28,8 @@
     Greetings, digital voyager! 👋 I'm Nadeem, a maestro of algorithms and architect of artificial minds. My quest? To unravel the enigmas of AI and forge the future of technology.
   </p>
   <div align="center">
-    <div>🧠 Sculpting neural networks that push the boundaries of machine cognition</div>
-    <div>🌟 Transmuting raw data into strategic insights that drive innovation</div>
     <div>🛠️ Engineering robust solutions to real-world challenges, one line of code at a time</div>
+    <div>🌟 Transmuting raw data into strategic insights that drive innovation</div>
     <div>🌐 Championing open-source initiatives that democratize cutting-edge tech</div>
     <div>🏆 Conquering hackathons with a blend of creativity, strategy, and caffeinated coding sessions</div>
   </div>
