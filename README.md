@@ -43,7 +43,8 @@
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,linux,ubuntu,arch,kubernetes,vim,aws,gcp,opencv,postgresql,vscode,github,githubactions,md,gitlab,bash,c,r,lua,cpp,java,html,css,bootstrap,js,threejs,react,nodejs,nextjs,astro,express,npm,mysql,sqlite,mongodb,supabase,redis,redux,ts,tailwindcss,prisma,rabbitmq,fastapi,regex,scikitlearn,django,flask,qt,nginx,anaconda,appwrite,firebase,bun,cloudflare,workers,wasm,figma,ae,ps,pr&perline=14" alt="Tech Stack" />
+<!--   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,linux,ubuntu,arch,kubernetes,vim,aws,gcp,opencv,postgresql,vscode,github,githubactions,md,gitlab,bash,c,r,lua,cpp,java,html,css,bootstrap,js,threejs,react,nodejs,nextjs,astro,express,npm,mysql,sqlite,mongodb,supabase,redis,redux,ts,tailwindcss,prisma,rabbitmq,fastapi,regex,scikitlearn,django,flask,qt,nginx,anaconda,appwrite,firebase,bun,cloudflare,workers,wasm,figma,ae,ps,pr&perline=14" alt="Tech Stack" /> -->
+  <img src="https://skillicons.dev/icons?i=vscode,github,c,bash,md,python,regex,sqlite,html,css,bootstrap,js,flask,git,ubuntu,linux,npm,astro,react,tailwindcss,express,django,fastapi,cloudflare,gcp,mongodb,qt,nextjs&perline=14" alt="Tech Stack" />
 </div>
 
 <br/>
