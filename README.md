@@ -2,7 +2,7 @@
 
 <h1><b>Hi, I'm Nadeem Ahmad 👋</b></h1>
 
-<p><i>I build systems that scale and solve real problems. </br> Passionate about learning new technologies and contributing to open source.</i></p>
+<p><i>I build systems that scale and solve real problems.</i></p>
 
 <div align="center">
   <a href="https://github.com/nadprime"><img src="https://img.shields.io/github/followers/nadprime?label=Follow&style=social" alt="GitHub"></a>
