@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Developer;Open+Source+Contributor;Hackathon+Geek;FullStack+Developer;Tech+Innovator;Always+Learning+New+Things;Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Engineer;Open+Source+Contributor;Hackathon+Geek;FullStack+Developer;Tech+Innovator;Always+Learning+New+Things;Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </h1>
 
 
